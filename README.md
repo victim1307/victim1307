@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @victim1307
+- 👋 Hi, I’m Pagilla Manohar Reddy
 - 👀 I’m interested in Cryptography & Network Security
 - 🌱 I’m currently learning Elliptic Curves
 - 📫 How to reach me victim1307@gmail.com
