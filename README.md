@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manohar Reddy Pagilla</h1>
 <h3 align="center">I’m interested in Cryptography & Network Security</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=victim1307" alt="victim1307" /></a> </p>
-
 - 🌱 I’m currently learning **Elliptic Curves**
 
 - 📫 How to reach me **victim1307@gmail.com**
